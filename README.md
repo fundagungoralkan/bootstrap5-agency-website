@@ -33,3 +33,5 @@ git clone https://github.com/yourusername/project-name.git
 
 <h2>🔖 License</h2>
 <p>This project is licensed under the <b>MIT License</b>. You are free to use and modify it as needed.</p>
+
+![Logo Screenshot](ezgif-logo.gif)
