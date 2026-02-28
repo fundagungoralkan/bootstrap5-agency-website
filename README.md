@@ -1,4 +1,4 @@
-<h1>🌐 Digital Agency Website – Animated</h1>
+<h1>🌐 Digital Agency Website</h1>
 
 <p>A modern digital agency website template. Built with Bootstrap 5 and an animated banner, fully <b>responsive</b> for desktop, tablet, and mobile.</p>
 
